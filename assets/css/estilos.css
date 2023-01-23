@@ -5,7 +5,7 @@ body {
 /* Hero Section */
 
 #Hero-Section {
-  background-image: url("../img/colach\ vivi.jpg");
+  background-image: url("../img/fondo_5.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: left;
@@ -38,3 +38,4 @@ body {
   }
 
 }
+
