@@ -1,14 +1,17 @@
 body {
-  font-family: 'Libre Franklin', sans-serif;
+  font-family: "Arimo", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  background: url("../img/fondo_2.jpg");
+  background-size:contain
 }
 
 /* Hero Section */
 
 #Hero-Section {
-  background-image: url("../img/fondo_5.jpg");
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-position: left;
+  background: url(../img/fondo_3.jpg);
+  background-repeat: repeat;
+  background-size: contain;
 }
 
 
